@@ -24,9 +24,17 @@ We're a Brisbane-based digital design and Webflow development agency acceleratin
 
 We specialise in working with **tech startups**, **SaaS companies**, and **financial services** brands globally.
 
+## Insights
+
+- [How to optimise your website for AI search](https://224industries.com.au/blog/ai-search-optimisation): Practical strategies to ensure ChatGPT, Claude, and Perplexity recommend your business when customers askâ€”before your competitors figure it out
+- [A startup branding strategy that actually works](https://224industries.com.au/blog/startup-branding-strategy): Build a memorable brand in Australia. Our startup branding strategy guide offers actionable steps for founders to define their identity and accelerate growth.
+- [Automating workflows in Webflow with AI](https://224industries.com.au/blog/webflow-ai-automation): AI in Webflow is exactly what you need for faster, smarter web development and design processes.
+- [Five essential AI apps every Webflow developer should consider](https://224industries.com.au/blog/five-webflow-ai-apps): Discover five essential AI apps for Webflow in 2025: Miyagi, Slater, Asset Bae, Webflow AI Assistant, and Jasper. Transform your workflow with automated design, coding, and content tools that save hours of development time.
+- [How reverse proxy supercharges Webflow sites](https://224industries.com.au/blog/webflow-reverse-proxy): See how top brands like Discord and Upwork use a reverse proxy for Webflow to break limits, integrate platforms, and boost their site.
+
 ## Connect With Us
 
-- 🌐 [224industries.com.au](https://224industries.com.au)
+- 🌐 [224industries.com.au](https://224industries.com.?utm_source=github)
 - 💼 [LinkedIn](https://www.linkedin.com/company/224-industries)
 - 🐦 [Twitter/X](https://x.com/224_agency)
 - 📸 [Instagram](https://www.instagram.com/224_agency/)
