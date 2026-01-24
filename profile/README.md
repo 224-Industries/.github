@@ -10,7 +10,7 @@ We're a Brisbane-based digital design and Webflow development agency acceleratin
 
 - Accessibility Audit & Optimization
 - Animation
-- Branding & Strategy
+- Strategy
 - Custom Code/Scripting
 - Data & Analytics
 - Design System Setup
@@ -22,7 +22,7 @@ We're a Brisbane-based digital design and Webflow development agency acceleratin
 
 ## Industry Focus
 
-We specialise in working with **tech startups**, **SaaS companies**, and **financial services** brands globally.
+We specialise in working with **tech** and **SaaS companies** globally.
 
 ## Insights
 
