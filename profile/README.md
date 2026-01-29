@@ -1,6 +1,6 @@
 ![224 Industries Portfolio Showcase](https://cdn.prod.website-files.com/636da0c4f28b69b99a71781a/6424f3da658b1d6d96f305ae_244%20design%20showcase_V3.png)
 
-[![Webflow Certified Partner](https://img.shields.io/badge/Certified_Partner-146EF5?style=for-the-badge&logo=webflow&logoColor=white)](https://webflow.com/@224-industries)
+[![Webflow Premium Partner](https://img.shields.io/badge/Premium_Partner-146EF5?style=for-the-badge&logo=webflow&logoColor=white)](https://webflow.com/@224-industries)
 
 **Creative partners for tech and SaaS companies.**
 
@@ -31,6 +31,10 @@ We specialise in working with **tech** and **SaaS companies** globally.
 - [Automating workflows in Webflow with AI](https://224industries.com.au/blog/webflow-ai-automation): AI in Webflow is exactly what you need for faster, smarter web development and design processes.
 - [Five essential AI apps every Webflow developer should consider](https://224industries.com.au/blog/five-webflow-ai-apps): Discover five essential AI apps for Webflow in 2025: Miyagi, Slater, Asset Bae, Webflow AI Assistant, and Jasper. Transform your workflow with automated design, coding, and content tools that save hours of development time.
 - [How reverse proxy supercharges Webflow sites](https://224industries.com.au/blog/webflow-reverse-proxy): See how top brands like Discord and Upwork use a reverse proxy for Webflow to break limits, integrate platforms, and boost their site.
+
+## Open Source Snippets
+
+-  [Agent Skills](https://github.com/224-Industries/agent-skills): Useful open source skill snippets that can be uploaded to your favourite tools like Claude, ChatGPT, and Perplexity.
 
 ## Connect With Us
 
