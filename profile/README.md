@@ -32,9 +32,9 @@ We specialise in working with **tech** and **SaaS companies** globally.
 - [Five essential AI apps every Webflow developer should consider](https://224industries.com.au/blog/five-webflow-ai-apps): Discover five essential AI apps for Webflow in 2025: Miyagi, Slater, Asset Bae, Webflow AI Assistant, and Jasper. Transform your workflow with automated design, coding, and content tools that save hours of development time.
 - [How reverse proxy supercharges Webflow sites](https://224industries.com.au/blog/webflow-reverse-proxy): See how top brands like Discord and Upwork use a reverse proxy for Webflow to break limits, integrate platforms, and boost their site.
 
-## Open Source Snippets
+## Open Source
 
--  [Agent Skills](https://github.com/224-Industries/agent-skills): Useful open source skill snippets that can be uploaded to your favourite tools like Claude, ChatGPT, and Perplexity.
+-  [Webflow Agent Skills](https://github.com/224-industries/webflow-skills): Crafting solutions for and with Webflow, thanks to powerful Webflow Agent Skills.
 
 ## Connect With Us
 
