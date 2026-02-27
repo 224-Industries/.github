@@ -34,7 +34,7 @@ We specialise in working with **tech** and **SaaS companies** globally.
 
 ## Open Source
 
--  [Webflow Agent Skills](https://github.com/224-industries/webflow-skills): Crafting solutions for and with Webflow, thanks to powerful Webflow Agent Skills.
+-  [Webflow Agent Skills](https://224industries.com.au/webflow-skills): Crafting solutions for and with Webflow, thanks to powerful Webflow Agent Skills.
 
 ## Connect With Us
 
