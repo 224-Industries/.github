@@ -26,7 +26,7 @@ We specialise in working with **tech** and **SaaS companies** globally.
 
 ## Insights
 
-- [How to optimise your website for AI search](https://224industries.com.au/blog/ai-search-optimisation): Practical strategies to ensure ChatGPT, Claude, and Perplexity recommend your business when customers askâ€”before your competitors figure it out
+- [How to optimise your website for AI search](https://224industries.com.au/blog/ai-search-optimisation): Practical strategies to ensure ChatGPT, Claude, and Perplexity recommend your business when customers ask, before your competitors figure it out
 - [Why marketing teams still can't update their websites](https://224industries.com.au/blog/why-marketing-teams-still-cant-update-their-websites): Usually it is the build, not the CMS. The four gaps that keep marketing teams filing developer tickets for simple changes, and a 20 minute self audit to find yours.
 - [Automating workflows in Webflow with AI](https://224industries.com.au/blog/webflow-ai-automation): AI in Webflow is exactly what you need for faster, smarter web development and design processes.
 - [Five essential AI apps every Webflow developer should consider](https://224industries.com.au/blog/five-webflow-ai-apps): Discover five essential AI apps for Webflow in 2025: Miyagi, Slater, Asset Bae, Webflow AI Assistant, and Jasper. Transform your workflow with automated design, coding, and content tools that save hours of development time.
@@ -38,7 +38,7 @@ We specialise in working with **tech** and **SaaS companies** globally.
 
 ## Connect With Us
 
-- 🌐 [224industries.com.au](https://224industries.com.?utm_source=github)
+- 🌐 [224industries.com.au](https://224industries.com.au?utm_source=github)
 - 💼 [LinkedIn](https://www.linkedin.com/company/224-industries)
 - 🐦 [Twitter/X](https://x.com/224_agency)
 - 📸 [Instagram](https://www.instagram.com/224_agency/)
