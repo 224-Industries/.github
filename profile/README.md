@@ -25,17 +25,6 @@ Once the build is complete we train your team on how to use it: the components, 
 
 Because the site we hand over is one your marketing team can actually run. We design and build component-based Webflow sites, so your team can add pages, launch campaigns and update content without needing a developer, and without breaking the layout. You own the site and everything in it.
 
-## Teams already running their own sites
-
-> "The new website 224 built gives us real confidence to grow long term and working with them feels like an extension of our team."
-> Tom Monaghan-Jackson, Rex Software
-
-> "The 224 team are the rare kind of agency partners who actually make your work better — not just build what you ask for."
-> Ian Cook, Vouch
-
-> "Since the new website launched, we have observed measurable improvements in both user engagement and lead generation"
-> Matt de Feudis, Easy Agile
-
 ## Insights
 
 - [Why marketing teams still can't update their websites](https://224industries.com.au/blog/why-marketing-teams-still-cant-update-their-websites): Usually it is the build, not the CMS. Four gaps keep marketing teams filing developer tickets for simple changes. Find yours with a 20 minute self audit.
